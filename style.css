@@ -1,0 +1,15 @@
+#input-controller {
+    background: red;
+    margin: auto;
+    width: 400px;
+    height: 400px;
+}
+
+#values {
+    display: flex;
+    gap: 20px;
+    width: 100%;
+    background-color: aquamarine;
+    align-items: center;
+    justify-content: center;
+}
